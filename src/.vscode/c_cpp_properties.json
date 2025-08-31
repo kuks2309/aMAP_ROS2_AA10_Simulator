@@ -1,0 +1,49 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/amap/aa10_sim_ros2_catkin_ws/install/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/ros_controllers/ackermann_steering_controller/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/ros_control/combined_robot_hw/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/ros_control/combined_robot_hw_tests/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/ros_control/controller_interface/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/ros_control/controller_manager/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/ros_control/controller_manager_tests/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/ros_controllers/diff_drive_controller/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/ros_controllers/effort_controllers/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/ros_controllers/force_torque_sensor_controller/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/ros_controllers/forward_command_controller/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/ros_controllers/gripper_action_controller/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/ros_control/hardware_interface/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/Lidar/hector_slam/hector_geotiff/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/Lidar/hector_slam/hector_map_tools/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/Lidar/hector_slam/hector_mapping/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/Lidar/hector_slam/hector_marker_drawing/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/ros_controllers/imu_sensor_controller/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/ros_control/joint_limits_interface/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/ros_controllers/joint_state_controller/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/ros_controllers/joint_trajectory_controller/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/opencv_line_detection/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/ros_controllers/position_controllers/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/steer_drive_ros/steer_bot_hardware_gazebo/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/steer_drive_ros/steer_drive_controller/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/steer_drive_ros/stepback_and_steerturn_recovery/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/ros_control/transmission_interface/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/uni_car/include/**",
+        "/home/amap/aa10_sim_ros2_catkin_ws/src/ros_controllers/velocity_controllers/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

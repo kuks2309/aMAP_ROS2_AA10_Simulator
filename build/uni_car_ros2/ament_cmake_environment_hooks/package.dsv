@@ -1,0 +1,4 @@
+source;share/uni_car_ros2/local_setup.bash
+source;share/uni_car_ros2/local_setup.dsv
+source;share/uni_car_ros2/local_setup.sh
+source;share/uni_car_ros2/local_setup.zsh

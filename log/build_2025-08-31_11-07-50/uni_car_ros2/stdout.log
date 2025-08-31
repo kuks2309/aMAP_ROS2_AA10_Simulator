@@ -1,0 +1,106 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/amap/aa10_sim_ros2_catkin_ws/build/uni_car_ros2
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/config/display.rviz
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/config/ros2_controllers.yaml
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/urdf/materials.xacro
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/urdf/uni_car.urdf
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/urdf/uni_car.urdf.xacro
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/urdf/uni_car_generated.urdf
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/meshes/ROSCAR2_BASE.dae
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/meshes/ROSCAR2_LiDAR.dae
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/meshes/ROSCAR2_PiCameraV2.dae
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/meshes/ROSCAR2_Sonar.dae
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/meshes/ROSCAR2_WheelLeft.dae
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/meshes/ROSCAR2_WheelRight.dae
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/worlds/empty.world
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/worlds/house.world
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/worlds/mando_track.world
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/worlds/mando_track1.world
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/worlds/mando_track2.world
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/worlds/track.world
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/worlds/track.world.backup
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/worlds/track1.world
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/worlds/world.world
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/scripts/track_ground.material
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/textures/AA10_2022.png
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/textures/track_01_yeungnam.png
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/textures/track_01_yeungnam1.png
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/textures/track_01_yeungnam2.png
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/textures/track_02_hanla.png
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/textures/track_03_kyungsung.png
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/textures/track_04_korea.png
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/textures/track_05_wonkwang.png
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/textures/track_06_jeju.png
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/textures/track_07_joongbu.png
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/textures/track_08_transportation.png
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/textures/track_09_honam.png
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/textures/track_10_hongik.png
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/model.config
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/model.sdf
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/rviz/uni_car_navi.rviz
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/rviz/uni_car_slam.rviz
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/rviz/uni_car_world.rviz
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/maps/map_house.pgm
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/maps/map_house.yaml
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/maps/map_track.pgm
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/maps/map_track.yaml
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/maps/map_world.pgm
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/maps/map_world.yaml
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/param/_costmap_common_params.yaml
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/param/_global_costmap_params.yaml
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/param/_global_planner_params.yaml
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/param/_local_costmap_params.yaml
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/param/_local_planner_params.yaml
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/param/_move_base_params.yaml
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/param/costmap_common_params.yaml
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/param/global_costmap_params.yaml
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/param/local_costmap_params.yaml
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/param/teb_local_planner_params.yaml
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/ament_index/resource_index/package_run_dependencies/uni_car_ros2
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/ament_index/resource_index/parent_prefix_path/uni_car_ros2
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/environment/ament_prefix_path.sh
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/environment/ament_prefix_path.dsv
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/environment/path.sh
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/environment/path.dsv
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/local_setup.bash
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/local_setup.sh
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/local_setup.zsh
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/local_setup.dsv
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/package.dsv
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/ament_index/resource_index/packages/uni_car_ros2
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/cmake/uni_car_ros2Config.cmake
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/cmake/uni_car_ros2Config-version.cmake
+-- Symlinking: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/package.xml
+-- Installing: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/launch
+-- Installing: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/launch/teleop_keyboard.launch.py
+-- Installing: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/launch/gazebo_simple.launch.py
+-- Installing: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/launch/rviz_simple.launch.py
+-- Installing: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/launch/gazebo_test.launch.py
+-- Installing: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/launch/simple_car_test.launch.py
+-- Installing: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/launch/simple_test.launch.py
+-- Installing: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/launch/uni_car_world.launch.py
+-- Installing: /home/amap/aa10_sim_ros2_catkin_ws/install/uni_car_ros2/share/uni_car_ros2/launch/rviz_display.launch.py
