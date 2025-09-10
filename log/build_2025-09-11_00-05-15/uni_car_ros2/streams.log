@@ -1,0 +1,4 @@
+[0.013s] Invoking command in '/home/amap/aMAP_ROS2_AA10_Simulator/build/uni_car_ros2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/amap/aMAP_ROS2_AA10_Simulator/src/uni_car_ros2 --warn-unused-cli -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2
+[0.019s] [0mCMake Error: Unknown argument --warn-unused-cli[0m
+[0.019s] [0mCMake Error: Run 'cmake --help' for all supported options.[0m
+[0.020s] Invoked command in '/home/amap/aMAP_ROS2_AA10_Simulator/build/uni_car_ros2' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/amap/aMAP_ROS2_AA10_Simulator/src/uni_car_ros2 --warn-unused-cli -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2

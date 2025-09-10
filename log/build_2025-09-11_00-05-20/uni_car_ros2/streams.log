@@ -1,0 +1,52 @@
+[0.013s] Invoking command in '/home/amap/aMAP_ROS2_AA10_Simulator/build/uni_car_ros2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/amap/aMAP_ROS2_AA10_Simulator/src/uni_car_ros2 -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2
+[0.025s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.114s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.119s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.169s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.173s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.174s] -- Added test 'lint_cmake' to check CMake code style
+[0.174s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.177s] -- Added test 'xmllint' to check XML markup files
+[0.177s] -- Configuring done
+[0.178s] -- Generating done
+[0.179s] -- Build files have been written to: /home/amap/aMAP_ROS2_AA10_Simulator/build/uni_car_ros2
+[0.182s] Invoked command in '/home/amap/aMAP_ROS2_AA10_Simulator/build/uni_car_ros2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/amap/aMAP_ROS2_AA10_Simulator/src/uni_car_ros2 -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2
+[0.184s] Invoking command in '/home/amap/aMAP_ROS2_AA10_Simulator/build/uni_car_ros2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/amap/aMAP_ROS2_AA10_Simulator/build/uni_car_ros2 -- -j20 -l20
+[0.232s] Invoked command in '/home/amap/aMAP_ROS2_AA10_Simulator/build/uni_car_ros2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/amap/aMAP_ROS2_AA10_Simulator/build/uni_car_ros2 -- -j20 -l20
+[0.241s] Invoking command in '/home/amap/aMAP_ROS2_AA10_Simulator/build/uni_car_ros2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/amap/aMAP_ROS2_AA10_Simulator/build/uni_car_ros2
+[0.250s] -- Install configuration: "Release"
+[0.250s] -- Execute custom install script
+[0.250s] -- Symlinking: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/config/display.rviz
+[0.261s] -- Symlinking: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/config/ros2_controllers.yaml
+[0.270s] -- Symlinking: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/urdf/materials.xacro
+[0.280s] -- Symlinking: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/urdf/uni_car.urdf
+[0.290s] -- Symlinking: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/urdf/uni_car.urdf.xacro
+[0.300s] -- Symlinking: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/urdf/uni_car_fix.urdf
+[0.311s] -- Symlinking: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/meshes/ROSCAR2_BASE.dae
+[0.319s] -- Symlinking: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/meshes/ROSCAR2_LiDAR.dae
+[0.328s] -- Symlinking: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/meshes/ROSCAR2_PiCameraV2.dae
+[0.339s] -- Symlinking: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/meshes/ROSCAR2_Sonar.dae
+[0.351s] -- Symlinking: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/meshes/ROSCAR2_WheelLeft.dae
+[0.358s] -- Symlinking: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/meshes/ROSCAR2_WheelRight.dae
+[0.368s] -- Symlinking: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/worlds/aa10_complete_stadium.world
+[0.376s] -- Symlinking: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/worlds/aa10_stadium.world
+[0.383s] -- Symlinking: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/worlds/empty.world
+[0.392s] -- Symlinking: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/worlds/house.world
+[0.401s] -- Symlinking: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/worlds/mando_track.world
+[0.409s] -- Symlinking: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/worlds/mando_track1.world
+[0.419s] -- Symlinking: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/worlds/mando_track2.world
+[0.430s] -- Symlinking: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/worlds/mando_track_ros2.world
+[0.438s] -- Symlinking: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/worlds/minimal_test.world
+[0.449s] -- Symlinking: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/worlds/simple_ground.world
+[0.459s] [31mCMake Error at ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:302 (message):
+[0.460s]   Could not create symlink
+[0.460s]   '/home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/worlds/simple_ground.world'
+[0.460s]   pointing to
+[0.460s]   '/home/amap/aMAP_ROS2_AA10_Simulator/src/uni_car_ros2/worlds/simple_ground.world'
+[0.460s] Call Stack (most recent call first):
+[0.460s]   ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:96 (_ament_cmake_symlink_install_create_symlink)
+[0.460s]   ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:323 (ament_cmake_symlink_install_directory)
+[0.460s]   cmake_install.cmake:46 (include)
+[0.460s] 
+[0.460s] [0m
+[0.461s] Invoked command in '/home/amap/aMAP_ROS2_AA10_Simulator/build/uni_car_ros2' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/amap/aMAP_ROS2_AA10_Simulator/build/uni_car_ros2

@@ -1,0 +1,132 @@
+[0.010s] Invoking command in '/home/amap/aMAP_ROS2_AA10_Simulator/build/uni_car_ros2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/amap/aMAP_ROS2_AA10_Simulator/src/uni_car_ros2 -DCMAKE_INSTALL_PREFIX=/home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2
+[0.069s] -- The C compiler identification is GNU 11.4.0
+[0.123s] -- The CXX compiler identification is GNU 11.4.0
+[0.134s] -- Detecting C compiler ABI info
+[0.210s] -- Detecting C compiler ABI info - done
+[0.217s] -- Check for working C compiler: /usr/lib/ccache/gcc - skipped
+[0.217s] -- Detecting C compile features
+[0.217s] -- Detecting C compile features - done
+[0.219s] -- Detecting CXX compiler ABI info
+[0.295s] -- Detecting CXX compiler ABI info - done
+[0.299s] -- Check for working CXX compiler: /usr/lib/ccache/g++ - skipped
+[0.300s] -- Detecting CXX compile features
+[0.300s] -- Detecting CXX compile features - done
+[0.302s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.735s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.802s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.861s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.866s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.866s] -- Added test 'lint_cmake' to check CMake code style
+[0.867s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.869s] -- Added test 'xmllint' to check XML markup files
+[0.870s] -- Configuring done
+[0.871s] -- Generating done
+[0.872s] -- Build files have been written to: /home/amap/aMAP_ROS2_AA10_Simulator/build/uni_car_ros2
+[0.874s] Invoked command in '/home/amap/aMAP_ROS2_AA10_Simulator/build/uni_car_ros2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/amap/aMAP_ROS2_AA10_Simulator/src/uni_car_ros2 -DCMAKE_INSTALL_PREFIX=/home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2
+[0.876s] Invoking command in '/home/amap/aMAP_ROS2_AA10_Simulator/build/uni_car_ros2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/amap/aMAP_ROS2_AA10_Simulator/build/uni_car_ros2 -- -j20 -l20
+[0.921s] Invoked command in '/home/amap/aMAP_ROS2_AA10_Simulator/build/uni_car_ros2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/amap/aMAP_ROS2_AA10_Simulator/build/uni_car_ros2 -- -j20 -l20
+[0.933s] Invoking command in '/home/amap/aMAP_ROS2_AA10_Simulator/build/uni_car_ros2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/amap/aMAP_ROS2_AA10_Simulator/build/uni_car_ros2
+[0.941s] -- Install configuration: ""
+[0.942s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/launch
+[0.942s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/launch/rviz_display.launch.py
+[0.942s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/launch/rviz_display.launch_origianl.py
+[0.942s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/launch/__pycache__
+[0.942s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/launch/aa10_complete_stadium.launch.py
+[0.943s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/config
+[0.943s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/config/display.rviz
+[0.943s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/config/ros2_controllers.yaml
+[0.943s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/urdf
+[0.943s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/urdf/uni_car_fix.urdf
+[0.943s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/urdf/uni_car.urdf.xacro
+[0.943s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/urdf/materials.xacro
+[0.943s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/urdf/uni_car.urdf
+[0.943s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/meshes
+[0.943s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/meshes/ROSCAR2_WheelRight.dae
+[0.947s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/meshes/ROSCAR2_WheelLeft.dae
+[0.950s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/meshes/ROSCAR2_Sonar.dae
+[0.950s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/meshes/ROSCAR2_LiDAR.dae
+[0.952s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/meshes/ROSCAR2_BASE.dae
+[0.953s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/meshes/ROSCAR2_PiCameraV2.dae
+[0.953s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/worlds
+[0.953s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/worlds/house.world
+[0.953s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/worlds/aa10_stadium.world
+[0.953s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/worlds/minimal_test.world
+[0.953s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/worlds/track1.world
+[0.953s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/worlds/mando_track_ros2.world
+[0.953s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/worlds/track.world.backup
+[0.953s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/worlds/simple_ground.world
+[0.953s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/worlds/mando_track.world
+[0.953s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/worlds/world.world
+[0.953s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/worlds/aa10_complete_stadium.world
+[0.953s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/worlds/empty.world
+[0.953s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/worlds/test_ground.world
+[0.953s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/worlds/mando_track1.world
+[0.953s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/worlds/mando_track2.world
+[0.953s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/worlds/track.world
+[0.953s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models
+[0.953s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/aa10_ground
+[0.953s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/aa10_ground/model.sdf
+[0.953s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/aa10_ground/model.config
+[0.953s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/aa10_ground/materials
+[0.953s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/aa10_ground/materials/textures
+[0.953s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/aa10_ground/materials/textures/AA10_2022.png
+[0.953s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/aa10_ground/materials/scripts
+[0.953s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/aa10_ground/materials/scripts/aa10_ground.material
+[0.953s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/track_ground
+[0.954s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/model.sdf
+[0.954s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/model.config
+[0.954s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials
+[0.954s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/textures
+[0.954s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/textures/track_03_kyungsung.png
+[0.954s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/textures/track_02_hanla.png
+[0.954s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/textures/track_01_yeungnam.png
+[0.954s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/textures/track_06_jeju.png
+[0.954s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/textures/track_09_honam.png
+[0.954s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/textures/track_08_transportation.png
+[0.954s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/textures/track_01_yeungnam2.png
+[0.954s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/textures/track_05_wonkwang.png
+[0.954s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/textures/AA10_2022.png
+[0.954s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/textures/track_10_hongik.png
+[0.954s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/textures/track_07_joongbu.png
+[0.954s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/textures/track_04_korea.png
+[0.954s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/textures/track_01_yeungnam1.png
+[0.954s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/scripts
+[0.954s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/models/track_ground/materials/scripts/track_ground.material
+[0.955s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/rviz
+[0.955s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/rviz/uni_car_slam.rviz
+[0.955s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/rviz/uni_car_world.rviz
+[0.955s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/rviz/uni_car_navi.rviz
+[0.955s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/maps
+[0.955s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/maps/map_track.pgm
+[0.955s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/maps/map_world.pgm
+[0.955s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/maps/map_world.yaml
+[0.955s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/maps/map_track.yaml
+[0.956s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/maps/map_house.pgm
+[0.956s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/maps/map_house.yaml
+[0.956s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/param
+[0.956s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/param/_global_costmap_params.yaml
+[0.956s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/param/costmap_common_params.yaml
+[0.956s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/param/_costmap_common_params.yaml
+[0.956s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/param/_local_costmap_params.yaml
+[0.956s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/param/_move_base_params.yaml
+[0.956s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/param/_local_planner_params.yaml
+[0.956s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/param/global_costmap_params.yaml
+[0.956s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/param/_global_planner_params.yaml
+[0.957s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/param/local_costmap_params.yaml
+[0.957s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/param/teb_local_planner_params.yaml
+[0.957s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/ament_index/resource_index/package_run_dependencies/uni_car_ros2
+[0.957s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/ament_index/resource_index/parent_prefix_path/uni_car_ros2
+[0.957s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/environment/ament_prefix_path.sh
+[0.957s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/environment/ament_prefix_path.dsv
+[0.957s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/environment/path.sh
+[0.957s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/environment/path.dsv
+[0.957s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/local_setup.bash
+[0.957s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/local_setup.sh
+[0.957s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/local_setup.zsh
+[0.957s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/local_setup.dsv
+[0.957s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/package.dsv
+[0.957s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/ament_index/resource_index/packages/uni_car_ros2
+[0.958s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/cmake/uni_car_ros2Config.cmake
+[0.958s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/cmake/uni_car_ros2Config-version.cmake
+[0.958s] -- Installing: /home/amap/aMAP_ROS2_AA10_Simulator/install/uni_car_ros2/share/uni_car_ros2/package.xml
+[0.959s] Invoked command in '/home/amap/aMAP_ROS2_AA10_Simulator/build/uni_car_ros2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/amap/aMAP_ROS2_AA10_Simulator/build/uni_car_ros2
