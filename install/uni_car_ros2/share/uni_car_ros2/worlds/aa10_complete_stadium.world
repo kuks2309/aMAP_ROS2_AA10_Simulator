@@ -90,83 +90,8 @@
       </link>
       
       <!-- Bottom Wall (with gaps for start/finish) -->
-      <link name='wall_bottom_left'>
-        <collision name='collision'>
-          <geometry>
-            <box>
-              <size>2.5 0.1 0.3</size>
-            </box>
-          </geometry>
-          <pose>0 0 0.15 0 0 0</pose>
-        </collision>
-        <visual name='visual'>
-          <pose>0 0 0.15 0 0 0</pose>
-          <geometry>
-            <box>
-              <size>2.5 0.1 0.3</size>
-            </box>
-          </geometry>
-          <material>
-            <script>
-              <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
-            </script>
-          </material>
-        </visual>
-        <pose>-3 -4.25 0 0 0 0</pose>
-      </link>
       
-      <link name='wall_bottom_middle'>
-        <collision name='collision'>
-          <geometry>
-            <box>
-              <size>2.5 0.1 0.3</size>
-            </box>
-          </geometry>
-          <pose>0 0 0.15 0 0 0</pose>
-        </collision>
-        <visual name='visual'>
-          <pose>0 0 0.15 0 0 0</pose>
-          <geometry>
-            <box>
-              <size>2.5 0.1 0.3</size>
-            </box>
-          </geometry>
-          <material>
-            <script>
-              <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
-            </script>
-          </material>
-        </visual>
-        <pose>0 -4.25 0 0 0 0</pose>
-      </link>
       
-      <link name='wall_bottom_right'>
-        <collision name='collision'>
-          <geometry>
-            <box>
-              <size>2.5 0.1 0.3</size>
-            </box>
-          </geometry>
-          <pose>0 0 0.15 0 0 0</pose>
-        </collision>
-        <visual name='visual'>
-          <pose>0 0 0.15 0 0 0</pose>
-          <geometry>
-            <box>
-              <size>2.5 0.1 0.3</size>
-            </box>
-          </geometry>
-          <material>
-            <script>
-              <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Grey</name>
-            </script>
-          </material>
-        </visual>
-        <pose>3 -4.25 0 0 0 0</pose>
-      </link>
       
       <!-- Left Wall -->
       <link name='wall_left'>
